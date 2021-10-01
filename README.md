@@ -1,1 +1,16 @@
-# Code Refactor Starter Code
+# the main goal of this project was to consolidate an existing functional website.
+
+# main html code must be semantic and have a logical flow
+
+# css style must be sematic and have a logical flow
+
+# any redundant or repeat code was consolidated
+
+# added notes to clarify each part of the code
+
+# semantic element replaced some old element
+
+# navigation tag is now functional
+
+# consolidated css elements
+
