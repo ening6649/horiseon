@@ -1,16 +1,20 @@
-# the main goal of this project was to consolidate an existing functional website.
+# Horiseon
 
-# main html code must be semantic and have a logical flow
+## Goals
+* the main goal of this project was to consolidate an existing functional website.
 
-# css style must be sematic and have a logical flow
+* main html code must be semantic and have a logical flow
 
-# any redundant or repeat code was consolidated
+* css style must be sematic and have a logical flow
 
-# added notes to clarify each part of the code
+* any redundant or repeat code was consolidated
 
-# semantic element replaced some old element
+## my refactor notes
+* added notes to clarify each part of the code
 
-# navigation tag is now functional
+* semantic element replaced some old element
 
-# consolidated css elements
+* navigation tag is now functional
+
+* consolidated css elements
 
