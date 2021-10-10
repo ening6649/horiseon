@@ -20,5 +20,5 @@
 
 ## Link to my website  https://ening6649.github.io/horiseon/
 
-## ScreenShot 
+## ScreenShot .assets/images/Horiseon.png
 
